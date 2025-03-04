@@ -107,7 +107,7 @@ Feature: Renewal of Residency
 		 Then user click on "PAY" button
 		 Then user naviagtes to DHA payment page and click on pay button 
      And user verify status of stepper as "Pending Medical Test" and "VIEW" button should be present
-     And user update
+     And user update user 
     
 
     
