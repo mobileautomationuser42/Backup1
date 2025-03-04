@@ -1,0 +1,47 @@
+[
+  {
+    "startX": 5,
+    "startY": 23,
+    "scanRange": 10,
+    "expectedRed": 180,
+    "expectedGreen": 75,
+    "expectedBlue": 75,
+    "threshold": 5
+  },
+  {
+      "startX": 5,
+      "startY": 23,
+      "scanRange": 10,
+      "expectedRed": 255,
+      "expectedGreen": 0,
+      "expectedBlue": 0,
+      "threshold": 5
+    },
+  {
+    "startX": 11,
+    "startY": 27,
+    "scanRange": 5,
+    "expectedRed": 92,
+    "expectedGreen": 150,
+    "expectedBlue": 102,
+    "threshold": 5
+  },
+  {
+    "startX": 5,
+    "startY": 21,
+    "scanRange": 5,
+    "expectedRed": 75,
+    "expectedGreen": 125,
+    "expectedBlue": 180,
+    "threshold": 5
+  },
+  {
+     "startX": 7,
+     "startY": 22,
+     "scanRange": 5,
+     "expectedRed": 255,
+     "expectedGreen": 165,
+     "expectedBlue": 0,
+     "threshold": 5
+   }
+]

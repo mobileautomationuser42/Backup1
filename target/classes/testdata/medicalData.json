@@ -1,0 +1,40 @@
+{
+  "Medical": {
+    "VIPSERVICE": {
+      "firstCenter": "Smart Salem – DIFC, Index Tower",
+      "SecondCenter": "Smart Salem – TECOM, Dubai Knowledge Park"
+    },
+    "REGULARSERVICE": {
+      "firstCenter": "Al Yalayis Medical Fitness Center",
+      "SecondCenter": "Al Rashidyia Medical Fitness Center",
+      "ThirdCenter": "Al Lusaily Health Center",
+      "FourthCenter": "Al Muhaisnah Medical Fitness Center",
+      "FifthCenter": "Al Garhoud Medical Fitness Center",
+      "SixthCenter": "Al Nahda Occupational Health Center",
+	  "SeventhCenter": "Bur Dubai Medical Fitness Center",
+	  "EightCenter": "Al Quoz Mall Medical Fitness Center",
+	  "NinethCenter": "Al Karama Medical Fitness Center",
+	  "TenthCenter": "Zabeel Health Center (for Zabeel Residents)",
+	  "EleventhCenter": "Dubai Airport Center",
+	  "TwelvethCenter": "Salem, Al Muhaisnah Branch"
+    },
+    "URGENTSERVICE": {
+		"firstCenter": "Al Yalayis Medical Fitness Center",
+		"SecondCenter": "Al Rashidyia Medical Fitness Center",
+		"ThirdCenter": "Al Lusaily Health Center",
+		"FourthCenter": "Al Muhaisnah Medical Fitness Center",
+		"FifthCenter": "Al Garhoud Medical Fitness Center",
+		"SixthCenter": "Al Nahda Occupational Health Center",
+		"SeventhCenter": "Bur Dubai Medical Fitness Center",
+		"EightCenter": "Al Quoz Mall Medical Fitness Center",
+		"NinethCenter": "Al Karama Medical Fitness Center",
+		"TenthCenter": "Zabeel Health Center (for Zabeel Residents)",
+		"EleventhCenter": "Dubai Airport Center",
+		"TwelvethCenter": "Salem, Al Muhaisnah Branch"
+    },
+	"WORKERCONTACTDETAILS": {
+	      "WorkerMobileNo": "+971505621532",
+	      "WorkerEmail": "test@gmail.com"
+	    },
+  }
+}
